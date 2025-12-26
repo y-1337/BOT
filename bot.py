@@ -25,7 +25,7 @@ from telegram.ext import (
 )
 
 # =================== НАСТРОЙКИ ===================
-TOKEN = "8581658074:AAFdjd_B4UMIwRa2wiDzHjxxew8nO-zt_NY"  #Замените на свой токен
+TOKEN = "8581658074:AAFdjd_B4UMIwRa2wiDzHjxxew8nO-zt_NY"  # Замените на свой токен
 DB_NAME = "habits.db"
 
 # Состояния для ConversationHandler
